@@ -8,7 +8,11 @@ env:
   - idfprod
 timezone: America/Los Angeles
 ttl: 2hr
-defer: 2021-08-12T15:00
+rules:
+  - freq: weekly
+    start: 2021-08-11T15:00
+    by_weekday:
+      - day: thursday
 ---
 
 On most Thursday afternoons we deploy updates and perform routine maintenance actions on the Rubin Science Platform.
