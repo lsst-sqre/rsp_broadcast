@@ -1,6 +1,7 @@
 ---
 enabled: false
-summary: [Patch Thursday](https://community.lsst.org/t/what-is-rsp-patch-thursday/5647) is still ongoing.
+summary: |
+  [Patch Thursday](https://community.lsst.org/t/what-is-rsp-patch-thursday/5647) is still ongoing.
 env:
   - idfdev
   - idfint

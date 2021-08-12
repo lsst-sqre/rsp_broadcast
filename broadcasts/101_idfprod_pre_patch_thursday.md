@@ -1,6 +1,7 @@
 ---
 enabled: true
-summary: [Patch Thursday](https://community.lsst.org/t/what-is-rsp-patch-thursday/5647) is **today**, 3pm–5pm Pacific / 22:00–00:00 UT.
+summary: |
+  [Patch Thursday](https://community.lsst.org/t/what-is-rsp-patch-thursday/5647) is **today**, 3pm–5pm Pacific / 22:00–00:00 UT.
 env:
   - idfdev
   - idfint
