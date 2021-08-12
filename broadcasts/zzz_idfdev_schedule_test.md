@@ -6,11 +6,7 @@ env:
   - idfdev
 timezone: America/Los Angeles
 ttl: 10min
-rules:
-  - freq: weekly
-    start: 2021-08-12T14:35
-    by_weekday:
-      - day: thursday
+defer: 2021-08-12T14:48
 ---
 
 Test content.
