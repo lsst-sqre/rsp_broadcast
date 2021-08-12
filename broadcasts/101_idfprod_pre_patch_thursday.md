@@ -6,9 +6,6 @@ env:
   - idfdev
   - idfint
   - idfprod
-timezone: America/Los Angeles
-ttl: 3hr
-defer: 2021-08-12T12:00
 ---
 
 On most Thursday afternoons we deploy updates and perform routine maintenance actions on the Rubin Science Platform.
