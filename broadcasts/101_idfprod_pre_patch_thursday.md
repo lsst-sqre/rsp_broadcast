@@ -10,7 +10,7 @@ timezone: America/Los Angeles
 ttl: 3hr
 rules:
   - freq: weekly
-    start: 2021-08-11T12:00
+    start: 2021-08-12T12:00
     by_weekday:
       - day: thursday
 ---
