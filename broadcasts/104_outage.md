@@ -1,6 +1,6 @@
 ---
 summary: We are experiencing issues with the Notebook service at some
-NCSA deplo [(workaround)](https://community.lsst.org/t/issue-affecting-rsp-deployment-at-ncsa-lsp-stable/5817).
+NCSA deployments [(workaround)](https://community.lsst.org/t/issue-affecting-rsp-deployment-at-ncsa-lsp-stable/5817).
 env:
   - stable
 enabled: true
