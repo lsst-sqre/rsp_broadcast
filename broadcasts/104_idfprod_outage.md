@@ -1,10 +1,9 @@
 ---
-summary: Issues with qserv (database) queries, investigating
+summary: We are experiencing issues, investigating
 env:
   - idfprod
   - idfint
-enabled: true
+enabled: false
 ---
 
-Notebooks appear to be hanging and then timing out when doing qserv
-queries. We are investigating the issue and will post updates.
+We are investigating the issue and will post updates.
