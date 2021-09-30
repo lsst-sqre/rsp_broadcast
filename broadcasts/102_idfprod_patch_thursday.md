@@ -1,5 +1,5 @@
 ---
-enabled: true
+enabled: false
 summary: |
   [Patch Thursday](https://community.lsst.org/t/what-is-rsp-patch-thursday/5647) is **happening now,** 3pm–5pm Pacific / 22:00–00:00 UT.
 env:
@@ -7,7 +7,7 @@ env:
   - idfint
   - idfprod
 timezone: America/Los Angeles
-ttl: 2hr
+ttl: 1hr
 rules:
   - freq: weekly
     start: 2021-08-11T15:00
