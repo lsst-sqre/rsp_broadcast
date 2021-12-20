@@ -6,4 +6,4 @@ env:
 enabled: true
 ---
 
-We are being affected by issues with Docker Hub which mean our Notebook service is currently unavailable. We are monitoring the situation. 
+We are being affected by issues with Docker Hub (in turn likely affected by AWS issues) which mean our Notebook service is currently unavailable and other services may also be affected. We are monitoring the situation. 
