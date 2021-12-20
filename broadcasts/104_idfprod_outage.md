@@ -1,9 +1,9 @@
 ---
-summary: We are experiencing issues due to Docker Hub outage
+summary: We are experiencing issues and are investigating.
 env:
   - idfprod
   - idfint
 enabled: true
 ---
 
-We are being affected by issues with Docker Hub (in turn likely affected by AWS issues) which mean our Notebook service is currently unavailable and other services may also be affected. We are monitoring the situation. 
+Updates as we have them. 
