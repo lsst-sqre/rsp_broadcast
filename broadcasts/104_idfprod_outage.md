@@ -1,9 +1,8 @@
 ---
-summary: RSP Notebook sessions will be terminated during Patch Thursday today
+summary: Most services done with Patch Thursday but Qserv/TAP still being worked on
 env:
   - idfprod
-  - idfint
-enabled: false
+enabled: true
 ---
 
-See https://community.lsst.org/t/rsp-notebook-sessions-will-be-terminated-this-patch-thursday-2022-03-03-3pm-pt/6364/2 for more details
+You may use available services, database queries backed by Qserv will fail.
