@@ -7,7 +7,7 @@ env:
   - idfint
   - idfprod
 timezone: America/Los Angeles
-ttl: 1hr
+ttl: 2hr
 rules:
   - freq: weekly
     start: 2021-08-11T15:00
