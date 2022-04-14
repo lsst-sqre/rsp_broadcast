@@ -88,3 +88,17 @@ summary: This message is disabled.
 enabled: true
 ---
 ```
+
+### Information messages (category)
+
+By default, messages are in the ``maintenance`` category to tell users about system stability issues.
+For informational messages, such as announcements or calls-to-action, you can instead, create an "info" message by setting ``category: info`` in the front-matter:
+
+```markdown
+---
+summary: This is an informational message.
+category: info
+---
+```
+
+In Squareone, informational message are displayed in Rubin teal; maintenance messages in red.
