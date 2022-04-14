@@ -1,5 +1,5 @@
 ---
-enabled: true
+enabled: false
 summary: |
   This is a test of a message that appears weekly at 15:20 project.
 env:

@@ -1,5 +1,5 @@
 ---
-enabled: true
+enabled: false
 summary: |
   This is a test of a scheduled message.
 env:
