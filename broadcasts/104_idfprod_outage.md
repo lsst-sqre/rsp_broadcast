@@ -2,7 +2,7 @@
 summary: Some users are reporting 504 errors from portal. Show more for fix ->
 env:
   - idfprod
-enabled: true
+enabled: false
 ---
 
 A few users are reporting geting a 504 error (timeout) when trying to access the portal.
