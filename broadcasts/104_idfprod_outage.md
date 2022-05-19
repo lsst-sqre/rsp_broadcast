@@ -2,7 +2,7 @@
 summary: Butler registry / CloudSQL outage during today's Patch Thursday  ->
 env:
   - idfprod
-enabled: false
+enabled: true
 ---
 
 During today's Patch Thursday activities, we will be updating the database that underlies the Butler registry.
