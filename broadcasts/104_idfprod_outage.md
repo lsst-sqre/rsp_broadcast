@@ -1,10 +1,9 @@
 ---
-summary: Some users are reporting 504 errors from portal. Show more for fix ->
+summary: Butler registry / CloudSQL outage during today's Patch Thursday  ->
 env:
   - idfprod
 enabled: false
 ---
 
-A few users are reporting geting a 504 error (timeout) when trying to access the portal.
-If that happens to you, clear your cookies from data.lsst.cloud and try again. 
-We are investigating the reasons for this. 
+During today's Patch Thursday activities, we will be updating the database that underlies the Butler registry.
+The operation will take ~30-60 min to complete. Butler access will not work during this time. 
