@@ -1,9 +1,8 @@
 ---
-summary: Butler registry / CloudSQL outage during today's Patch Thursday  ->
+summary: User pods will be terminated at 2pm PT  ->
 env:
-  - idfprod
-enabled: false
+  - idfint
+enabled: trye
 ---
 
-During today's Patch Thursday activities, we will be updating the database that underlies the Butler registry.
-The operation will take ~30-60 min to complete. Butler access will not work during this time. 
+When this message is no longer visible, you can start a new session without fear of being terminated
