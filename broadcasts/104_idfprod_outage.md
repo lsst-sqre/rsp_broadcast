@@ -2,7 +2,7 @@
 summary: Jupyterlab sessions will be terminated during Patch Thursday activities ->
 env:
   - idfprod
-enabled: true
+enabled: false
 ---
 
 As part of the weekly Patch Thursday activities we will roll out an update that requires current sessions in the Notebook aspect to be terminated. 
