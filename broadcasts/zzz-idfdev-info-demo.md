@@ -1,8 +1,8 @@
 ---
-summary: Here's some information.
+summary: Here's some information. 🦄
 env:
   - idfdev
-enabled: false
+enabled: true
 category: info
 ---
 
