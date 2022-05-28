@@ -1,8 +1,14 @@
 ---
-summary: Most services done with Patch Thursday but Qserv/TAP still being worked on
+summary: DP0.2 Integration activities ongoing on data-int
 env:
-  - idfprod
+  - idfint
 enabled: false
+category: info
 ---
 
-You may use available services, database queries backed by Qserv will fail.
+There's a lot of service integration activity going on right now.
+Some things will occasionally seem weird.
+Monitor #dm-rsp-team if you're interested.
+Report persistent issues with existing (DPO.1) functionality in #ops-google-idf
+
+Omelletes, eggs. 
