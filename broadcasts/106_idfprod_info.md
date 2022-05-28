@@ -11,4 +11,4 @@ Some things will occasionally seem weird.
 Monitor #dm-rsp-team if you're interested.
 Report persistent issues with existing (DPO.1) functionality in #ops-google-idf
 
-Omelletes, eggs. 
+Omelettes, eggs. 
