@@ -2,7 +2,7 @@
 summary: DP0.2 Integration activities ongoing on data-int
 env:
   - idfint
-enabled: false
+enabled: true
 category: info
 ---
 
