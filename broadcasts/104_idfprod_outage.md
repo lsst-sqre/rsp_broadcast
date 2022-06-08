@@ -1,8 +1,8 @@
 ---
-summary: Avoid TAP on data-int today ->
+summary: DP0.1 Registry is temporarily down for maintenance
 env:
-  - idfint
-enabled: false
+  - idfprod
+enabled: True
 ---
 
-Something has gone wrong as part of the DP0.2 integration testing today - we're working on it
+We expect to restore the DP0.1 Registry by 10:00 UTC.
