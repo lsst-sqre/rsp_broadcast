@@ -1,8 +1,8 @@
 ---
-summary: DP0.1 Registry is temporarily down for maintenance
+summary: Qserv/TAP unavailable this evening for DP0.2 prep
 env:
   - idfprod
-enabled: False
+enabled: True
 ---
 
-We expect to restore the DP0.1 Registry by 10:00 UTC.
+There will be a brief outage of catalog query service during this upgrade.  We will clear this message when the upgrade has been completed.  Thank you for your patience!
