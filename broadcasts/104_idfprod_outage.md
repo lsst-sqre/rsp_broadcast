@@ -1,8 +1,8 @@
 ---
-summary: Qserv/TAP unavailable this evening for DP0.2 prep
+summary: Qserv/TAP unavailable this evening (22:00-23:00 PDT) for DP0.2 prep
 env:
   - idfprod
 enabled: True
 ---
 
-There will be a brief outage of catalog query service during this upgrade.  We will clear this message when the upgrade has been completed.  Thank you for your patience!
+There will interruptions of catalog query service in this window, while we upgrade the Qserv software and production cluster to make way for DP0.2 catalog ingests.  We will clear this message when the upgrades have been completed.  Thank you for your patience!
