@@ -1,5 +1,5 @@
 ---
-summary: Qserv/TAP unavailable this evening (22:00-23:00 PDT) for DP0.2 prep
+summary: Qserv/TAP unavailable this evening (22:00-00:00 PDT) for DP0.2 prep
 env:
   - idfprod
 enabled: True
