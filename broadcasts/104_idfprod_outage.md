@@ -1,8 +1,11 @@
 ---
-summary: Qserv/TAP unavailable this evening (22:00-01:00 PDT) for DP0.2 prep
+summary: DP0.2 prep underway - "Patch Thursday" conditions till the weekend. 
 env:
   - idfprod
-enabled: False
+enabled: True
 ---
 
-There will interruptions of catalog query service in this window, while we continue to upgrade the Qserv software and production cluster to make way for DP0.2 catalog ingests.  We will clear this message when the upgrades have been completed.  Thank you for your patience!
+DP0.2 preparation activities are really hotting up.
+We'll take the opportunity to roll out a few more updates on Friday.
+You might notice very brief interrupts as services restart.
+Save early and often.
