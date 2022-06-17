@@ -2,7 +2,7 @@
 summary: DP0.2 prep underway - "Patch Thursday" conditions till the weekend. 
 env:
   - idfprod
-enabled: True
+enabled: False
 ---
 
 DP0.2 preparation activities are really hotting up.
