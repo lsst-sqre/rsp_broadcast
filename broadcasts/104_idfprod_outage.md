@@ -1,11 +1,10 @@
 ---
-summary: DP0.2 prep underway - "Patch Thursday" conditions till the weekend. 
+summary: DP0.2 release underway - "Patch Thursday" conditions till the end of the day. 
 env:
   - idfprod
-enabled: False
+enabled: True
 ---
 
-DP0.2 preparation activities are really hotting up.
-We'll take the opportunity to roll out a few more updates on Friday.
-You might notice very brief interrupts as services restart.
+DP0.2 release prep is happening today! 
+Wait for the green banner before filing issues.
 Save early and often.
