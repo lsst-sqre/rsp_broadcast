@@ -2,7 +2,7 @@
 summary: DP0.2 release underway - "Patch Thursday" conditions till the end of the day. 
 env:
   - idfprod
-enabled: True
+enabled: False
 ---
 
 DP0.2 release prep is happening today! 
