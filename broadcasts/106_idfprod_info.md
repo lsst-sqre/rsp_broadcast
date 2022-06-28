@@ -1,14 +1,9 @@
 ---
-summary: DP0.2 Integration activities ongoing on data-int
+summary: DP0.2 is underway 🎉 
 env:
-  - idfint
+  - idfprod
 enabled: true
 category: info
 ---
 
-There's a lot of service integration activity going on right now.
-Some things will occasionally seem weird.
-Monitor #dm-rsp-team if you're interested.
-Report persistent issues with existing (DPO.1) functionality in #ops-google-idf
-
-Omelettes, eggs. 
+Read all about it: https://community.lsst.org/t/data-preview-0-2-is-underway/6796
