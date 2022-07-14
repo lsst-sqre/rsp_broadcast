@@ -1,0 +1,107 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "user_comment": "Sasquatch news feed.",
+    "home_page_url": "http://chronograf-base-efd.lsst.codes",
+    "feed_url": "https://raw.githubusercontent.com/lsst-sqre/rsp_broadcast/main/jsonfeed/base.json",
+    "title": "News for Sasquatch at the base facility.",
+    "items": [
+        {
+            "id": "7",
+            "url": "https://github.com/influxdata/chronograf/releases/tag/1.9.4",
+            "title": "Chronograf 1.9.4",
+            "content_text": "Upgrade Chronograf to the latest release.",
+            "date_published": "2022-04-07T02:00:00-07:00",
+            "date_modified": "2022-04-07T02:00:00-07:00",
+            "image": "",
+            "authors": [
+                {
+                    "name": "SQuaRE"
+                }
+            ]
+        },
+         {
+            "id": "6",
+            "url": "https://github.com/influxdata/chronograf/releases/tag/1.9.3",
+            "title": "Chronograf 1.9.3",
+            "content_text": "Upgrade Chronograf to the latest release.",
+            "date_published": "2022-01-27T02:00:00-07:00",
+            "date_modified": "2022-01-27T02:00:00-07:00",
+            "image": "",
+            "authors": [
+                {
+                    "name": "SQuaRE"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "url": "https://github.com/influxdata/chronograf/releases/tag/1.9.1",
+            "title": "Chronograf 1.9.1",
+            "content_text": "This version fixes three issues in Chronograf reported by us (yay!) #5784: Fix Safari display issues of a Single Stat, #5796: Avoid useless browser history change, and #5803: Repair time rendering in horizontal table.",
+            "date_published": "2021-10-13T02:00:00-07:00",
+            "date_modified": "2021-10-13T02:00:00-07:00",
+            "image": "",
+            "authors": [
+                {
+                    "name": "SQuaRE"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "url": "https://jira.lsstcorp.org/browse/DM-30083",
+            "title": "EFD time scale is now UTC",
+            "content_text": "According to RFC-767 we are switching the EFD time scale from TAI to UTC. This means that when you query the EFD via Chronograf or the EFD client the timestamps for the InfluxDB time column are returned in UTC. So you can use functions like now() in your InfluxQL queries safely, and manipulate time using Flux without worring about the time shift between TAI and UTC. The column private_sndStamp still has the timestamp values in TAI in case you need to work with them.",
+            "date_published": "2021-08-19T02:00:01-07:00",
+            "date_modified": "2021-08-19T02:00:01-07:00",
+            "image": "",
+            "authors": [
+                {
+                    "name": "SQuaRE"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "url": "https://github.com/influxdata/chronograf/issues/5782",
+            "title": "Chronograf display issues with Safari",
+            "content_text": "We have seen issues rendering Tables and Single Stat panels on dashboard cells with recent versions of Safari. We recommend using Chrome for a better experience. ",
+            "date_published": "2021-08-04T02:00:01-07:00",
+            "date_modified": "2021-08-04T02:00:01-07:00",
+            "image": "",
+            "authors": [
+                {
+                    "name": "SQuaRE"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "url": "https://docs.influxdata.com/chronograf/v1.9/guides/create-a-dashboard/#configure-dashboard-wide-settings",
+            "title": "Custom auto-refresh intervals",
+            "content_text": "In Chronograf 1.9.0 we can now configure custom auto-refresh intervals for dashboards. We added the option to refresh dashboard contents every 1s. However, use this feature with caution if your dashboard has too many cells or if you are querying data on large time ranges.",
+            "date_published": "2021-08-04T02:00:01-07:00",
+            "date_modified": "2021-08-04T02:00:01-07:00",
+            "image": "",
+            "authors": [
+                {
+                    "name": "SQuaRE"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "url": "https://www.influxdata.com/blog/release-announcement-chronograf-1-9-0/",
+            "title": "Chronograf upgraded to version 1.9.0",
+            "content_text": "Chronograf 1.9.0 brings a number of new features and improvements, see blog post linked above.",
+            "date_published": "2021-08-04T02:00:01-07:00",
+            "date_modified": "2021-08-04T02:00:01-07:00",
+            "image": "",
+            "authors": [
+                {
+                    "name": "SQuaRE"
+                }
+            ]
+        }
+    ]
+}
