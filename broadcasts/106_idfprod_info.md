@@ -2,7 +2,7 @@
 summary: DP0.2 HiPS Coverage Maps now available in the Portal 🎉 
 env:
   - idfprod
-enabled: true
+enabled: false
 category: info
 ---
 
