@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "user_comment": "Sasquatch news feed.",
+    "home_page_url": "https://usdf-rsp.slac.stanford.edu/chronograf",
+    "feed_url": "https://raw.githubusercontent.com/lsst-sqre/rsp_broadcast/main/jsonfeeds/usdfprod.json",
+    "title": "News for Sasquatch at the USDF",
+    "items": [
+        {
+            "id": "12",
+            "url": "https://sqr-068.lsst.io",
+            "title": "Sasquatch is available at USDF",
+            "content_text": "Sasquatch is service of the RSP for recording, displaying and alerting on Rubin’s engineering data. On August 11, we have restored a full backup of the Summit databse to this instance. Note that the replication service from the Summit to USDF is still being set up, which means that recent Summit data is not instantly available here.",
+            "date_published": "2022-08-11T02:00:00-07:00",
+            "date_modified": "2022-08-11T02:00:00-07:00",
+            "image": "",
+            "authors": [
+                {
+                    "name": "SQuaRE"
+                }
+            ]
+        }
+    ]
+}
