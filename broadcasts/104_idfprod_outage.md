@@ -1,10 +1,10 @@
 ---
-summary: Notebook sessions will be terminated during Patch Thursday today for node upgrades
+summary: Notebook sessions will be terminated during this Patch Thursday (9/21)
 env:
-  - idfprod
-enabled: false
+  - idfint
+enabled: true
 ---
 
-There's going to be a ~30 min outage while we upgrade the cluster during today's Patch Thursday. 
+User notebook sessions will be terminated during Patch Thursday due to a release that requires a session database upgrade 
 You're welcome to use the system until you get kicked off. 
 Save early and often.
