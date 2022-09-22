@@ -2,7 +2,7 @@
 summary: Notebook sessions will be terminated during this Patch Thursday (9/21)
 env:
   - idfint
-enabled: true
+enabled: false
 ---
 
 User notebook sessions will be terminated during Patch Thursday due to a release that requires a session database upgrade 
