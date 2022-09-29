@@ -1,7 +1,7 @@
 ---
-summary: Notebook sessions will be terminated during this Patch Thursday (9/21)
+summary: Notebook sessions will be terminated during this Patch Thursday (9/29)
 env:
-  - idfint
+  - idfprod
 enabled: false
 ---
 
