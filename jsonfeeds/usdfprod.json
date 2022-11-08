@@ -6,6 +6,20 @@
     "title": "News for Sasquatch at the USDF",
     "items": [
         {
+            "id": "5",
+            "url": "https://jira.lsstcorp.org/browse/DM-36657",
+            "title": "Restored Summit EFD data",
+            "content_text": "While network connection between Summit and USDF is being sorted out, we are doing incremental restores of the Summit EFD at USDF manually. Currently the USDF EFD is synced with the Summit EFD up to 2022/10/17 00:00:00 UTC.",
+            "date_published": "2022-11-07T02:00:00-07:00",
+            "date_modified": "2022-11-07T02:00:00-07:00",
+            "image": "",
+            "authors": [
+                {
+                    "name": "SQuaRE"
+                }
+            ]
+        },
+         {
             "id": "4",
             "url": "https://jira.lsstcorp.org/browse/DM-36428",
             "title": "Restored Summit EFD data",
