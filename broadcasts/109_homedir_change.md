@@ -2,7 +2,7 @@
 summary: Where are my files?? Click More for instructions 
 env:
   - idfint
-enabled: false
+enabled: true
 category: info
 ---
 
