@@ -1,9 +1,10 @@
 ---
-summary: Notebook sessions will be terminated during this Patch Thursday (2023-01-05)
+summary: Downtime during this Patch Thursday for major user identity changes (2023-02-23)
 env:
-  - idfint
-enabled: false
+  - idfprod
+enabled: true
 ---
 
-User notebook sessions will be terminated during Patch Thursday due to an upgrade that will invalidate session information
-Save early and often.
+The RSP will be *unavailable* from 15:30 Pacific until EOB during the Thursday weekly upgrade widnow for a major identity system migration as we transition from our provisional system to CILogon.
+All user accounts will be reset.
+Current Data Preview delegates should consult this link: https://community.lsst.org/t/mandatory-action-items-for-all-delegates-starting-thu-feb-23/7437
