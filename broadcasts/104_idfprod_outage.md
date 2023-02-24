@@ -2,7 +2,7 @@
 summary: Downtime during this Patch Thursday for major user identity changes (2023-02-23)
 env:
   - idfprod
-enabled: true
+enabled: false
 ---
 
 The RSP will be *unavailable* from 15:30 Pacific until EOB during the Thursday weekly upgrade widnow for a major identity system migration as we transition from our provisional system to CILogon.
