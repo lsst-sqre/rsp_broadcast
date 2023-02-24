@@ -1,7 +1,8 @@
 ---
 summary: Where are my files?? Click More for instructions 
 env:
-  - idfprod, idfint
+  - idfprod
+  - idfint
 enabled: true
 category: info
 ---
