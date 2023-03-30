@@ -6,6 +6,20 @@
     "title": "News for Sasquatch at the USDF",
     "items": [
         {
+            "id": "7",
+            "url": "https://jira.lsstcorp.org/browse/DM-38315",
+            "title": "Summit EFD data is now being automatically replicated to USDF",
+            "content_text": "As of March 10th, Summit EFD data is being automatically replicated to USDF. Previous data is still being restored manually. See SQR-034 for details on how to access the data.",
+            "date_published": "2022-03-10T02:00:00-07:00",
+            "date_modified": "2022-03-10T02:00:00-07:00",
+            "image": "",
+            "authors": [
+                {
+                    "name": "SQuaRE"
+                }
+            ]
+        },
+        {
             "id": "6",
             "url": "https://jira.lsstcorp.org/browse/DM-37976",
             "title": "Restored Summit EFD data",
