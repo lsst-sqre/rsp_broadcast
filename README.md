@@ -18,8 +18,10 @@ A basic broadcast markdown file looks like this:
 
 ```markdown
 ---
-summary: The summary line, **markdown formatted**, should ideally be a sentence or two.
+enabled: true
 ---
+
+The summary line, **markdown formatted**, should ideally be a sentence or two.
 
 The markdown body is for additional content and can include multiple
 paragraphs, links, lists, code blocks, images (externally-sourced), you name
@@ -30,10 +32,24 @@ This content is only shown when a user interacts with a message by tapping on
 "Show more" or the equivalent button.
 ```
 
-The **summary** is **required** for every message
-The **body** (content outside the `---` fences) is **optional**.
+The **summary** is automatically pulled from the body's first paragraph, however can also be defined in the metadata like so:
 
-Both are formatted as [GitHub-flavoured Markdown](https://github.github.com/gfm/).
+```markdown
+---
+summary: The summary line, **markdown formatted**, should ideally be a sentence or two.
+enabled: true
+---
+
+The markdown body is for...
+```
+
+The **body** (content outside the `---` fences) is **required** to form a summary unless said summary is explicitly defined in the metadata.
+
+Essentially, all posts require a summary, but that summary can be defined in either the body's first paragraph **or** the summary tag in the metadata.
+
+Note that leaving the metadata empty will result in an error.
+
+Both summary and body are formatted as [GitHub-flavoured Markdown](https://github.github.com/gfm/).
 
 ### Target RSP environments with the `env` front-matter field
 
