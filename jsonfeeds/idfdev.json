@@ -6,6 +6,20 @@
     "title": "News for Sasquatch at the IDF development cluster.",
     "items": [
         {
+            "id": "13",
+            "url": "https://github.com/influxdata/chronograf/releases",
+            "title": "Chronograf updated to version 1.10.1",
+            "content_text": "See release notes in the link above for changes since 1.9.4",
+            "date_published": "2022-05-03T02:00:00-07:00",
+            "date_modified": "2022-05-03T02:00:00-07:00",
+            "image": "",
+            "authors": [
+                {
+                    "name": "SQuaRE"
+                }
+            ]
+        },
+        {
             "id": "12",
             "url": "https://sqr-068.lsst.io",
             "title": "Long live Sasquatch!",
