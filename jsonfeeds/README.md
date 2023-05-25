@@ -1,6 +1,6 @@
 # Sasquatch news feed
 
-Chronograf is the main UI for the [Sasquatch](https://sqr-068.lsst.io) RSP service.
+Chronograf is the main UI for the [Sasquatch](https://sqr-068.lsst.io) Phalanx application.
 
 Chronograf uses the [JSON Feed Version 1.1](https://www.jsonfeed.org) specification to display a news feed on the client Status page.
 
