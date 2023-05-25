@@ -1,7 +1,8 @@
 ---
 summary: This is a **demo** broadcast notification, powered by [Semaphore](https://github.com/lsst-sqre/semaphore).
 env:
-  - idfdev, usdfprod
+  - idfdev
+  - usdfprod
 enabled: true
 ---
 
