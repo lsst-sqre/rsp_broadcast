@@ -6,6 +6,8 @@ env:
   - idfdev
   - idfint
   - idfprod
+  - usdfdev
+  - usdfprod
 ---
 
 On most Thursday afternoons we deploy updates and perform routine maintenance actions on the Rubin Science Platform.

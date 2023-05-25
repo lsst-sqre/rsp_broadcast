@@ -6,6 +6,8 @@ env:
   - idfdev
   - idfint
   - idfprod
+  - usdfdev
+  - usdfprod
 timezone: America/Los Angeles
 ttl: 2hr
 rules:
