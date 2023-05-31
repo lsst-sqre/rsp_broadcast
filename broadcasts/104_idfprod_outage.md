@@ -1,8 +1,9 @@
 ---
-summary: Session termination this Patch Thursday (2023-04-20)
+summary: Session termination this Patch Thursday (2023-06-01)
 env:
+  - idfprod
   - idfint
-enabled: false
+enabled: true
 ---
 
-Notebook sessions will be terminated today during patch while we deploy nublado v3 for testing.
+Notebook sessions will be terminated this Patch Thursday for the release of the new recommended image. 
