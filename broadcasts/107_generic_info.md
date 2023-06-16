@@ -2,6 +2,7 @@
 summary: Weekly 21 is now the new recommended (default) image for notebooks
 env:
   - idfprod
+  - idfdev
 enabled: true
 category: info
 ---
