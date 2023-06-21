@@ -3,7 +3,7 @@ summary: This is a **demo** broadcast notification, powered by [Semaphore](https
 env:
   - idfdev
   - usdfdev
-enabled: true
+enabled: false
 ---
 
 This message is sourced from the [`lsst-sqre/rsp_broadcast`](https://github.com/lsst-sqre/rsp_broadcast) directory.
