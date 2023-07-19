@@ -1,9 +1,8 @@
 ---
-summary: Session termination this Patch Thursday (2023-06-01)
+summary: Issues with slow Qserv queries being investigated
 env:
   - idfprod
-  - idfint
-enabled: false
+enabled: true
 ---
 
-Notebook sessions will be terminated this Patch Thursday for the release of the new recommended image. 
+Qserv queries are being very slow right now - we are investigating. 
