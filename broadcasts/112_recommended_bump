@@ -1,7 +1,7 @@
 ---
 summary: Notebooks - New recommended (w37) / session termination this Patch
 env:
-  - idfint
+  - idfprod
 enabled: true
 ---
 
