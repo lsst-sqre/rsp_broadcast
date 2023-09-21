@@ -2,7 +2,7 @@
 summary: Notebooks - New recommended (w37) / session termination this Patch
 env:
   - idfprod
-enabled: true
+enabled: false
 ---
 
 In this week's Patch Thursday, the recommended build of the science
