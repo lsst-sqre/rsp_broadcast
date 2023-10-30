@@ -1,7 +1,7 @@
 ---
-summary: Outage notice
+summary: We are investigating reported problems affecting the system. 
 env:
   - idfprod
-enabled: false
+enabled: true
 ---
 
