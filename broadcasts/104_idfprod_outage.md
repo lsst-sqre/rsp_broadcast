@@ -3,7 +3,7 @@ summary: DP0.3 queries offline
 env:
   - idfprod
   - idfdev
-enabled: true
+enabled: false
 ---
 
 Rubin Science Platform services are currently unable to reach the database hosting DP0.3 (solar system) catalogs. 
