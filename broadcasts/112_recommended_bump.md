@@ -2,7 +2,7 @@
 summary: Notebooks - New recommended image (weekly 16) - restart when convenient
 env:
   - idfprod
-enabled: true
+enabled: false
 category: info
 ---
 
