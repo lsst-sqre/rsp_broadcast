@@ -5,6 +5,7 @@ env:
   - usdfint
   - usdfdev
 enabled: true
+category: info
 ---
 
 To comply with DoE and SLAC session requirements, notebook lifetimes will be restricted to 8 days per RFC-1012. 
