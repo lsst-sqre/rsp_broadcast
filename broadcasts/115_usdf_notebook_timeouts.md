@@ -4,7 +4,7 @@ env:
   - usdfprod
   - usdfint
   - usdfdev
-enabled: true
+enabled: false
 category: info
 ---
 
