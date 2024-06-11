@@ -2,7 +2,7 @@
 summary: Have not logged in since 2023-02-23? Read this (seriously)
 env:
   - idfdev
-enabled: true
+enabled: false
 ---
 
 All user accounts have been reset due to the migration to our production identity system. 
