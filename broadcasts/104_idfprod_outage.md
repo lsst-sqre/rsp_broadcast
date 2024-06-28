@@ -1,11 +1,9 @@
 ---
-summary: DP0.3 queries offline
+summary: Issues with catalog search from the portal
 env:
   - idfprod
-  - idfdev
-enabled: false
+  - idfint
+enabled: true
 ---
 
-Rubin Science Platform services are currently unable to reach the database hosting DP0.3 (solar system) catalogs. 
-
-Status: Cause is being investigated
+We are investigating the issue with portal searches. 
