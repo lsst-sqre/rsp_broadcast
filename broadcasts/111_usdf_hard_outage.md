@@ -3,6 +3,7 @@ summary: Major outage of SRCF/S3DF 8AM PDT July 10 through 8PM PDT July 12
 env:
   - usdfdev
   - usdfint
+  - usdfprod
 enabled: true
 ---
 
