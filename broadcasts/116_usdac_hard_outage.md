@@ -2,7 +2,7 @@
 summary: DP0.3 (solar system object) queries UNAVAILABLE Wednesday-Sunday
 env:
   - idfprod
-enabled: true
+enabled: false
 ---
 
 Due to some urgently required electrical maintenance work at SLAC, the databases holding DP0.3 catalogs will be off-line all the way to (and possibly into) the weekend (July 10-13th)
