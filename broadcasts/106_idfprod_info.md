@@ -1,9 +1,11 @@
 ---
-summary: DP0.2 HiPS Coverage Maps now available in the Portal 🎉 
+summary: Service issues resolved
 env:
-  - idfint
-enabled: false
+  - idfprod
+enabled: true
 category: info
 ---
 
-Read all about it: https://community.lsst.org/t/dp0-2-generated-coverage-maps-now-available-in-the-portal/6828
+There was a brief outage Monday am due to issues with our idenity provider.
+This now seems resolved.
+Also, work at SLAC has completed and DP0.3 queries are once again available.
