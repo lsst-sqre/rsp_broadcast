@@ -3,7 +3,7 @@ summary: Notebooks - New recommended image (weekly 37) - see https://ls.st/w37
 env:
   - idfprod
   - idfint
-enabled: true
+enabled: false
 category: info
 ---
 
