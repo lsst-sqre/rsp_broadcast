@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "user_comment": "Sasquatch news feed.",
+    "home_page_url": "https://data.lsst.cloud/chronograf/",
+    "feed_url": "https://raw.githubusercontent.com/lsst-sqre/rsp_broadcast/main/jsonfeeds/idfprod.json",
+    "title": "News for Sasquatch at the IDF production cluster.",
+    "items": [
+        {
+            "id": "1",
+            "url": "https://sasquatch.lsst.io/environments.html",
+            "title": "New IDF Production Sasquatch environment.",
+            "content_text": "The IDF production environment is currently only being used for application metrics..",
+            "date_published": "2024-10-29T02:00:00-07:00",
+            "date_modified": "2024-10-29T02:00:00-07:00",
+            "image": "",
+            "authors": [
+                {
+                    "name": "SQuaRE"
+                }
+            ]
+        }
+    ]
+}
