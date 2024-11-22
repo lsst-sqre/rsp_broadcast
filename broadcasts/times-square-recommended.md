@@ -1,7 +1,7 @@
 ---
 env:
   - usdfdev
-enabled: true
+enabled: false
 category: info
 ttl: 1w
 ---
