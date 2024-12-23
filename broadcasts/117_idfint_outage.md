@@ -1,9 +1,8 @@
 ---
-summary: SLAC outage - no data - till/through Saturday July 13th
+summary: Short disruption notebook service at noon PT today (Monday)
 env:
-  - idfdev
   - idfint
-enabled: false
+enabled: true
 ---
 
-Additionally to the outage details on data.lsst.cloud, data-int and data-dev are served from a Qserv hosted at SLAC, so no DP0.2 catalogs will be available while SLAC is off-air.
+User sessions will be terminated. Details on #rsp-team slack channel
