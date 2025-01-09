@@ -3,7 +3,7 @@ summary: Notebooks - New recommended image (weekly 50)
 env:
   - idfprod
   - idfint
-enabled: true
+enabled: false
 category: info
 ---
 
