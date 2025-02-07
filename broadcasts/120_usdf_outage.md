@@ -4,7 +4,7 @@ env:
   - usdfint
   - usdfdev
   - usdfprod
-enabled: true
+enabled: false
 ---
 
 S3DF systems will undergo maintenance to ensure resilient power is supplied to equipment. During this time RSP notebooks will still be available, however access to some backend data storage (/sdf/data/rubin) will be unavailable and applications may appear to stall. 
