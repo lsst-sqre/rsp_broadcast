@@ -1,8 +1,9 @@
 ---
-summary: Short disruption notebook service at noon PT today (Monday)
+summary: Disruption of Butler and SIA service for updates
 env:
   - idfint
-enabled: false
+enabled: true
 ---
 
-User sessions will be terminated. Details on #rsp-team slack channel
+We're testing repointing the SIA service to the SLAC-based Butler this afternoon (Tuesday). 
+No need to report errors while this message is visible. 
