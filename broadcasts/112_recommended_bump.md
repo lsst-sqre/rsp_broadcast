@@ -1,13 +1,13 @@
 ---
-summary: Notebooks - New recommended image (weekly 50)
+summary: Notebooks - New recommended image (weekly 09) - expand for announcement link
 env:
   - idfprod
   - idfint
-enabled: false
+enabled: true
 category: info
 ---
 
-The recommended build of the science pipelines available in the RSP Notebook service has been upgraded to 2024 Weekly 50.
+The recommended build of the science pipelines available in the RSP Notebook service has been upgraded to 2025 Weekly 09
 *We recommend that you exit your notebook session and start a new one to take advantage of the latest release.*
 
-On a minor but much requested note, dark mode now works on the Notebook image selection page.
+See https://community.lsst.org/t/2025-03-06-rsp-data-lsst-cloud-updates/9881 for notable changes
