@@ -3,7 +3,7 @@ summary: Notebooks - New recommended image (weekly 09) - expand for announcement
 env:
   - idfprod
   - idfint
-enabled: false
+enabled: true
 category: info
 ---
 
