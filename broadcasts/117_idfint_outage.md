@@ -1,9 +1,9 @@
 ---
-summary: Disruption of Butler and SIA service for updates
+summary: TAP/Qserv scaletesting ongoing over the weekend
 env:
   - idfint
-enabled: false
+enabled: true
 ---
 
-We're testing repointing the SIA service to the SLAC-based Butler this afternoon (Tuesday). 
-No need to report errors while this message is visible. 
+We are conducting some TAP/Qserv sustained query load over the weekend.
+If you need to do real work with TAP consider using data.lsst.cloud until mid-day Monday. 
