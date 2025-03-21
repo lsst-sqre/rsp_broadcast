@@ -1,11 +1,11 @@
 ---
 enabled: true
 summary: |
-  Scaletesting ongoing 12:30-14:30 PT - consider doing something else
+  Scaletesting ongoing 12:30-15:30 PT - consider doing something else
 env:
   - idfint
 timezone: America/Los Angeles
-ttl: 2hr
+ttl: 3hr
 rules:
   - freq: weekly
     start: 2025-01-23T12:30
