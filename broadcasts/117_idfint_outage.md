@@ -2,7 +2,7 @@
 summary: TAP/Qserv scaletesting ongoing over the weekend
 env:
   - idfint
-enabled: true
+enabled: false
 ---
 
 We are conducting some TAP/Qserv sustained query load over the weekend.
