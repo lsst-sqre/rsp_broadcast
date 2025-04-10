@@ -1,13 +1,13 @@
 ---
-summary: DP0.3 catalog searches failing
+summary: Brief outage during normal Patch Thursday upgrades
 env:
   - idfprod
   - idfint
-enabled: false
+ttl: 1hr  
+enabled: true  
 ---
 
-There is a problem with the database serving DP0.3 data that is being investigated by infrastructure staff which is why DP0.3 queries are currently failing. 
-
-When the issue has been shown to be resolved, this message will be removed. 
+There is a brief outage due to an upgrade requiring a database migration. 
 
 Apologies for the inconvenience. 
+We roll updates every week and endeavour to do no-downtime updates, but sometimes they are unavoidable. 
