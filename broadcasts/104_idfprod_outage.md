@@ -3,7 +3,7 @@ summary: Brief outage during normal Patch Thursday upgrades
 env:
   - idfprod
   - idfint  
-enabled: false  
+enabled: true  
 ---
 
 There is a brief outage due to an upgrade requiring a database migration. 
