@@ -1,9 +1,10 @@
 ---
-summary: TAP/Qserv scaletesting ongoing over the weekend
+summary: Outage this Patch Thursday - home directory move
 env:
   - idfint
-enabled: false
+enabled: true
 ---
 
-We are conducting some TAP/Qserv sustained query load over the weekend.
-If you need to do real work with TAP consider using data.lsst.cloud until mid-day Monday. 
+Home directories on data-int are being moved to a quotaed volume during this Thursday's patch window.
+
+Users will be locked out from nublado during this change.
