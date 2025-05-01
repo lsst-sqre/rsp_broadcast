@@ -1,5 +1,5 @@
 ---
-summary: Outage this Patch Thursday - home directory move
+summary: Outage this Patch Thursday - home directory move NOW ONGOING
 env:
   - idfint
 enabled: true
