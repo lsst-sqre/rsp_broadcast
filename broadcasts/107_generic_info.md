@@ -1,11 +1,10 @@
 ---
-summary: Weekly 21 is now the new recommended (default) image for notebooks
+summary: User quotas are now enforced on /home
 env:
-  - idfprod
-  - idfdev
-enabled: false
+  - idfint
+enabled: true
 category: info
 ---
 
-For more information check out our Community Forum:
-https://community.lsst.org/t/rsp-update-recommended-image-change-2023-06-01/7685
+User quotas are now enforced on /home to allow us to test for their eventual DP1/data.lsst.cloud release.
+Staff using data-int can use /project and /scratch (as appropriate) for additional disk space.
