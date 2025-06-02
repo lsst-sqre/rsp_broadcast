@@ -4,7 +4,7 @@ env:
   - idfdev
   - idfint
   - idfprod
-enabled: true
+enabled: false
 ---
 
 The Rubin USDF data center at SLAC is experiencing serious problems.
