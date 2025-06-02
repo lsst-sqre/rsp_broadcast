@@ -1,9 +1,9 @@
 ---
 summary: RSP Data Services affected by SLAC outage
 env:
-  - usdfdev
-  - usdfint
-  - usdfprod
+  - idfdev
+  - idfint
+  - idfprod
 enabled: true
 ---
 
