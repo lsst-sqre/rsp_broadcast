@@ -1,12 +1,10 @@
 ---
-summary: Brief outage during normal Patch Thursday upgrades
+summary: Service disruption due to infrastructure issues
 env:
   - idfprod
   - idfint  
-enabled: false  
+enabled: true  
 ---
 
-There is a brief outage due to an upgrade requiring a database migration. 
-
-Apologies for the inconvenience. 
-We roll updates every week and endeavour to do no-downtime updates, but sometimes they are unavoidable. 
+RSP services are experiencing disruption due to an as-yet unaknowledged Google Cloud services disruption. 
+We are monitoring. 
