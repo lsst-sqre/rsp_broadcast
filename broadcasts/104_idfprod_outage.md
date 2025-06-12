@@ -6,5 +6,5 @@ env:
 enabled: true  
 ---
 
-RSP services are experiencing disruption due to an as-yet unaknowledged Google Cloud services disruption. 
-We are monitoring. 
+RSP services are experiencing disruption due to this Google Cloud outage https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW
+Our services should recover as soon as the underlying issue is resolved.  
