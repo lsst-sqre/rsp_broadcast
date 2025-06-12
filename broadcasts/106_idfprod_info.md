@@ -4,8 +4,9 @@ env:
   - idfprod
 enabled: false
 category: info
+ttl: 6h
 ---
 
-There was a brief outage Monday am due to issues with our idenity provider.
-This now seems resolved.
-Also, work at SLAC has completed and DP0.3 queries are once again available.
+Apologies for the outage this morning.
+This was due to a widespread [incident with Google Cloud](https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW)
+Services have now recovered. 
