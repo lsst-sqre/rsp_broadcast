@@ -2,7 +2,7 @@
 summary: User quotas are now enforced on /home
 env:
   - idfint
-enabled: true
+enabled: false
 category: info
 ---
 
