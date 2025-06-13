@@ -1,10 +1,8 @@
 ---
-summary: Outage this Patch Thursday - home directory move NOW ONGOING
+summary: /deleted-sundays now actually deleted sundays
 env:
   - idfint
-enabled: false
+enabled: true
 ---
 
-Home directories on data-int are being moved to a quotaed volume during this Thursday's patch window.
-
-Users will be locked out from nublado during this change.
+That's it. That's the message. 
