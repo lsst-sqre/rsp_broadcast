@@ -2,7 +2,7 @@
 summary: Service issues resolved
 env:
   - idfprod
-enabled: true
+enabled: false
 category: info
 ttl: 6h
 ---
