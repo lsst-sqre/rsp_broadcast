@@ -1,8 +1,8 @@
 ---
-summary: /deleted-sundays now actually deleted sundays
+summary: Outage Tuesday 2025-06-16 12:10 PT 
 env:
   - idfint
 enabled: true
 ---
 
-That's it. That's the message. 
+Kubernetes upgrade, Qserv auth changes
