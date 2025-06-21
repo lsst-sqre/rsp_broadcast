@@ -1,5 +1,5 @@
 ---
-summary: Countdown to DP1: Quotas are coming - RSP offline Fri 27 - please read
+summary: Countdown to DP1 - Quotas are coming - RSP offline Fri 27 - please read
 env:
   - idfprod
 enabled: true
