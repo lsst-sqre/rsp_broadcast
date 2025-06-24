@@ -1,10 +1,14 @@
 ---
-summary: Service disruption due to infrastructure issues
+summary: It's not Thursday but ... mini "Patch Thursday" *today* 12:30 PT
 env:
   - idfprod
   - idfint  
-enabled: false
+enabled: true
 ---
 
-RSP services are experiencing disruption due to this Google Cloud outage https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW
-Our services should recover as soon as the underlying issue is resolved.  
+
+We're accelerating some deployments in preparation for DP1 release. 
+
+There might be some "bad weather" 12:30-13:30 PT while we push out some updates. 
+
+As always you're welcome to continue using the system during routine maintenance but please hold off reporting bugs until the banner is off. 
