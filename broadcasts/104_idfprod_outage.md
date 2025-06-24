@@ -3,7 +3,7 @@ summary: It's not Thursday but ... mini "Patch Thursday" *today* 12:30 PT
 env:
   - idfprod
   - idfint  
-enabled: true
+enabled: false
 ---
 
 
