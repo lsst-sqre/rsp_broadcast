@@ -77,6 +77,23 @@ env:
 
 The [Phalanx README](https://github.com/lsst-sqre/phalanx#environments) includes a list of environment names.
 
+### Categories
+
+Broadcasts can have three categories, set by the `category` field in the front-matter:
+
+- "info" — an informational banner shown in Rubin teal.
+- "notice" — an important message shown in orange (default).
+- "outage" — an outage or other type of service emergency shown in red.
+
+Examples:
+
+```markdown
+---
+summary: There is an outage.
+category: outage
+---
+```
+
 ### Turn a message off, regardless of other scheduling
 
 To "hide" a broadcast that is currently visible, or is scheduled to become visible, you have two options:
@@ -104,17 +121,3 @@ summary: This message is disabled.
 enabled: true
 ---
 ```
-
-### Information messages (category)
-
-By default, messages are in the ``maintenance`` category to tell users about system stability issues.
-For informational messages, such as announcements or calls-to-action, you can instead, create an "info" message by setting ``category: info`` in the front-matter:
-
-```markdown
----
-summary: This is an informational message.
-category: info
----
-```
-
-In Squareone, informational message are displayed in Rubin teal; maintenance messages in red.
