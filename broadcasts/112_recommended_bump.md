@@ -3,7 +3,7 @@ summary: Notebooks - New recommended image (r29.1.1)
 env:
   - idfprod
   - idfint
-enabled: true
+enabled: false
 category: info
 ---
 
