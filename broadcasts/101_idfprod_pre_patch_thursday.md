@@ -1,7 +1,7 @@
 ---
 enabled: true
 summary: |
-  [Patch Thursday](https://community.lsst.org/t/what-is-rsp-patch-thursday/5647) is **today**, 3pm–5pm Pacific / 22:00–00:00 UT.
+  [Patch Thursday](Point to new Patch Thursday explanation) is **today**, 3pm–5pm Pacific / 22:00–00:00 UT.
 env:
   - idfdev
   - idfint
@@ -26,4 +26,4 @@ However there might be transient service interruptions or instabilities during t
 **If you are using the RSP during this time, save your work early and often** as on rare occasions user sessions may need to be terminated.
 Wait until after this window to [file bug reports](https://data.lsst.cloud/support) (if you still see a problem).
 
-For more information about Patch Thursday, [see our post on the Community forum](https://community.lsst.org/t/what-is-rsp-patch-thursday/5647).
+For more information about Patch Thursday, [check out the RSP docs](https://rsp.lsst.io/guides/life/patch-thursday.html).
