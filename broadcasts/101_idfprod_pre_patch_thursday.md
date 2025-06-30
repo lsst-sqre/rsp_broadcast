@@ -1,7 +1,7 @@
 ---
 enabled: true
 summary: |
-  [Patch Thursday](Point to new Patch Thursday explanation) is **today**, 3pm–5pm Pacific / 22:00–00:00 UT.
+  [Patch Thursday](https://rsp.lsst.io/guides/life/patch-thursday.html) is **today**, 3pm–5pm Pacific / 22:00–00:00 UT.
 env:
   - idfdev
   - idfint
