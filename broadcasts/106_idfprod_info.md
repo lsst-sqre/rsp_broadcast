@@ -1,9 +1,9 @@
 ---
-summary: Countdown to DP1 - Quotas are coming - RSP offline Fri 27 - please read
+summary: Data Preview 1 is now available 🎉 
 env:
   - idfprod
-enabled: false
-category: notice
+enabled: true
+category: info
 ---
 
-See https://community.lsst.org/t/2025-06-19-rsp-data-lsst-cloud-updates/10222 for details
+Monitor https://community.lsst.org/c/news/data-services/64 for upcoming useful announcements
