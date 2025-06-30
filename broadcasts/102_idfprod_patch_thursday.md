@@ -26,4 +26,4 @@ However there might be transient service interruptions or instabilities during t
 **If you are using the RSP during this time, save your work early and often** as on rare occasions user sessions may need to be terminated.
 Wait until after this window to [file bug reports](https://data.lsst.cloud/support) (if you still see a problem).
 
-For more information about Patch Thursday, [see our post on the Community forum](https://rsp.lsst.io/guides/life/patch-thursday.html).
+For more information about Patch Thursday, [check out the RSP docs](https://rsp.lsst.io/guides/life/patch-thursday.html).
