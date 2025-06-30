@@ -1,5 +1,5 @@
 ---
-summary: Closed for renovations (DP1 release prep) - releasing today (Monday)
+summary: Closed for renovations (DP1 release prep) - releasing today! (Monday)
 env:
   - idfprod
 category: outage
