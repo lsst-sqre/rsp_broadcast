@@ -5,6 +5,6 @@ env:
 enabled: true
 ---
 
-We're going to roll out various bug-fixes for some problems we'd like to resolve without waiting for the normal window. 
+We're going to roll out various bug-fixes for some problems we'd like to resolve without waiting for the normal maintenance window. 
 
-You can continue using the platform but please don't file bugs for anything that happens while this banner is up. 
+You can continue using the platform but please don't file bugs for anything that happens while this banner is up, just like [Patch Thursday](https://rsp.lsst.io/guides/life/patch-thursday.html)
