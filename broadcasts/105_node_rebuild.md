@@ -1,5 +1,5 @@
 ---
-summary: Some interruptions today 2025-07-01 at 12 noon Pacific - bug fixes coming - expand for more
+summary: Some interruptions today 2025-07-01 at 12:30 Pacific - bug fixes coming - expand for more
 env:
   - idfprod
 enabled: true
