@@ -2,7 +2,7 @@
 summary: Some interruptions today 2025-07-02 at 17:00 Pacific - bug fixes coming - expand for more
 env:
   - idfprod
-enabled: true
+enabled: false
 ---
 
 We're going to roll out bug-fixes for some problems we'd like to resolve without waiting for the normal maintenance window.
