@@ -10,7 +10,7 @@ env:
   - usdfint
   - usdfprod
 timezone: America/Los Angeles
-ttl: 2hr
+ttl: 1hr
 rules:
   - freq: weekly
     start: 2021-08-11T15:00
