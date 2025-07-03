@@ -2,7 +2,7 @@
 summary: Brief portal downtime today 2025-07-03 at 12:30 Pacific - bug fix coming - expand for more
 env:
   - idfprod
-enabled: true
+enabled: false
 ---
 
 We're going to roll out a fix for the Job Monitor without waiting for the normal maintenance window.
