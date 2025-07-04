@@ -1,9 +1,13 @@
 ---
-summary: Experiencing portal issues - working on it - expand for details
+summary: Most data offline Monday July 7th - electrical work at SLAC - expand for details
 env:
-  - idfprod
-category: outage
-enabled: false
+  - idfint
+category: notice
+enabled: true
 ---
 
-The portal is exhausting its resources. We're giving it more
+Due to electrical work at Rubin's US Data Facility at SLAC, most Rubin data will be unavailable on 2025-07-07 all day, with service restored around 21:00 Pacific.  
+
+This means a severe degradation of data.lsst.cloud usability for which we are very sorry. 
+Read [this page](https://rsp.lsst.io/guides/hybrid.html) to understand what you can and cannot do while SLAC is offline. 
+
