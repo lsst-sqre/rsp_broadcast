@@ -1,5 +1,5 @@
 ---
-summary: Most data offline Monday July 7th - electrical work at SLAC - expand for details
+summary: Most data offline *Monday July 7th* - electrical work at SLAC - expand for details
 env:
   - idfint
   - idfprod
