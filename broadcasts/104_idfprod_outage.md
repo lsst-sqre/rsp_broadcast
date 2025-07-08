@@ -7,7 +7,7 @@ category: outage
 enabled: true
 ---
 
-LATEST UPDATE: our colleagues at SLAC report that on-going system recovery is taking longer than predicted. Our apologies to all users 😩 ETA appears uncertain and at this stage recovery may not be complete until Tuesday morning Pacific / Tuesday evening Europe. 
+LATEST UPDATE: our colleagues at SLAC report that on-going system recovery is taking longer than predicted. Our apologies to all users 😩 ETA appears uncertain and at this stage it is best to assume recovery may not be complete until Tuesday morning Pacific / Tuesday evening Europe
 
 Original notice:
 
