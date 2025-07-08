@@ -1,5 +1,5 @@
 ---
-summary: Most data offline *Monday July 7th* - SLAC outage extended - expand for details
+summary: Most data offline - SLAC outage extended and ongoing - expand for details
 env:
   - idfint
   - idfprod
@@ -7,7 +7,7 @@ category: outage
 enabled: true
 ---
 
-LATEST UPDATE: our colleagues at SLAC report that on-going system recovery is taking longer than predicted. Our apologies especially to our East Asian / Oceania users. Current ETA is **Tuesday 01:00 PT**
+LATEST UPDATE: our colleagues at SLAC report that on-going system recovery is taking longer than predicted. Our apologies to all users 😩 ETA appears uncertain and at this stage recovery may not be complete until Tuesday morning Pacific / Tuesday evening Europe. 
 
 Original notice:
 
