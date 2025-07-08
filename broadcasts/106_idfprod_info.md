@@ -1,5 +1,5 @@
 ---
-summary: Catalog services restored, DP1 image services okay, DP0.3 and DP0.2 services still experiencing issues
+summary: DP1 okay, DP0.2 catalogs okay, DP0.3 catalogs and DP0.2 image services still unavailable
 env:
   - idfprod
 enabled: true
