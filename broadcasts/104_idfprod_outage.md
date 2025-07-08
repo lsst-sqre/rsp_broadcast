@@ -7,7 +7,9 @@ category: outage
 enabled: true
 ---
 
-Note: our colleagues at SLAC report that on-going system recovery is taking longer than predicted. Our apologies especially to our East Asian / Oceania users. Current ETA is **Tuesday 01:00 PT**
+LATEST UPDATE: our colleagues at SLAC report that on-going system recovery is taking longer than predicted. Our apologies especially to our East Asian / Oceania users. Current ETA is **Tuesday 01:00 PT**
+
+Original notice:
 
 Due to electrical work at Rubin's US Data Facility at SLAC, most Rubin data will be unavailable on 2025-07-07 from 04:00 Pacific (11:00 UTC), with service restored around ~21:00 Pacific (17 hours later)~ 
 
