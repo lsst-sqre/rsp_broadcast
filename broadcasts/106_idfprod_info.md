@@ -1,12 +1,9 @@
 ---
-summary: Catalog services, more, restored
+summary: Catalog services restored, DP1 image services okay, DP0.3 and DP0.2 services still experiencing issues
 env:
   - idfprod
 enabled: true
-category: info
+category: notice
 ---
-
-The RSP at data.lsst.cloud service should be back to full capabilities. 
-Please report any new issues. 
 
 Our heartfelt apologies for the extended outage. 
