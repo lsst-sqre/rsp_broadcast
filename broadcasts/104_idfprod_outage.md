@@ -4,7 +4,7 @@ env:
   - idfint
   - idfprod
 category: outage
-enabled: true
+enabled: false
 ---
 
 LATEST UPDATE: our colleagues at SLAC report that on-going system recovery is taking longer than predicted. Our continued apologies to all users 😩 We are uncertain of the ETA at this time. 
