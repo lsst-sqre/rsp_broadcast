@@ -1,5 +1,5 @@
 ---
-summary: DP1 ✔️ ok, DP0.2 catalogs ✔️ ok, DP0.3 catalogs ❌ and DP0.2 image services ❌ still offline
+summary: DP1 ✅ ok, DP0.2 catalogs ✅ ok, DP0.3 catalogs ✅ ok but DP0.2 image services ❌ still offline
 env:
   - idfprod
 enabled: true
