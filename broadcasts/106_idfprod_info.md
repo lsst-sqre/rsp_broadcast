@@ -1,9 +1,9 @@
 ---
-summary: DP1 ✅ ok, DP0.2 catalogs ✅ ok, DP0.3 catalogs ✅ ok but DP0.2 image services ❌ still offline
+summary: DP1 ✅ ok, DP0.2 catalogs ✅ ok, DP0.3 catalogs ✅ ok DP0.2 image services ✅  ok
 env:
   - idfprod
 enabled: true
-category: notice
+category: info
 ---
 
-Our heartfelt apologies for the extended outage. 
+DP0.2 images are once again available. 
