@@ -2,7 +2,7 @@
 summary: Message about an outage. 🚨
 env:
   - idfdev
-enabled: true
+enabled: false
 category: outage
 ---
 
