@@ -1,7 +1,7 @@
 ---
 env:
   - idfdev
-enabled: true
+enabled: false
 category: notice
 ---
 
