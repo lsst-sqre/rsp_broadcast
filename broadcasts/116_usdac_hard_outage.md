@@ -3,7 +3,7 @@ summary: TAP (catalog) queries offline
 env:
   - idfprod
   - idfint
-enabled: true
+enabled: false
 ---
 
 Due to system work at SLAC, some TAP (including DP1 catalog searches) are currently offline. 
