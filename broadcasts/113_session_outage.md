@@ -2,7 +2,7 @@
 summary: Notebook service outage during Patch Thursday for disk migration
 env:
   - idfprod
-enabled: true
+enabled: false
 category: notice
 ---
 
