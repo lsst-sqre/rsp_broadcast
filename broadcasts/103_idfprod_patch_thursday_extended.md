@@ -1,19 +1,16 @@
 ---
-enabled: false
+enabled: true
 summary: |
-  [Patch Thursday](https://community.lsst.org/t/what-is-rsp-patch-thursday/5647) is still ongoing.
+  Patch Thursday is still ongoing ETA 8pm Pacific - Notebook/WebDAV still off-line
 env:
-  - idfdev
-  - idfint
   - idfprod
 ---
 
-On most Thursday afternoons we deploy updates and perform routine maintenance actions on the Rubin Science Platform.
+We are in the process of a migration of user home spaces to a new storage type for a better experience. 
 
-This is not a outage period and you do not need to stop using the Platform.
+But! Lots of you have been very busy apparently, and so our disk incremental copy is taking forever.
 
-However there might be transient service interruptions or instabilities during this time, and very rarely an update can take longer than anticipated because of issues not seen in testing.
-**If you are using the RSP during this time, save your work early and often** as on rare occasions user sessions may need to be terminated.
-Wait until after this window to [file bug reports](https://data.lsst.cloud/support) (if you still see a problem).
+When this message disappears, that will be your good news.
+Meanwhile services that allow you to modify your home space (notebooks, WebDAV) have to remain offline.
+Sorry again. 
 
-For more information about Patch Thursday, [see our post on the Community forum](https://community.lsst.org/t/what-is-rsp-patch-thursday/5647).
