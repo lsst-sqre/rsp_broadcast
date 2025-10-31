@@ -1,5 +1,5 @@
 ---
-enabled: true
+enabled: false
 summary: |
   Patch Thursday is still ongoing ETA 8pm Pacific - Notebook/WebDAV still off-line
 env:
