@@ -4,7 +4,7 @@ env:
   - usdfint
   - usdfdev
   - usdfprod
-enabled: True
+enabled: False
 ---
 
 All running usdf notebook sessions will be terminated to perform kubernetes node upgrades starting at 5AM PDT on Thursday November 20th.
