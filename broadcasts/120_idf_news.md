@@ -1,15 +1,15 @@
 ---
-summary: WebDAV available in beta - check out our [latest post](https://community.lsst.org/t/2025-07-11-rsp-data-lsst-cloud-sorry-sorry-but-also-webdav/10578)
+summary: Cutout service - new parameters and default behavior - check out our [latest post](https://community.lsst.org/t/2025-12-21-rsp-data-lsst-cloud-cutouts-fits-wcs-settings/11411)
 env:
   - idfint
   - idfprod
 enabled: true
 category: info
 timezone: America/Los Angeles
-expire: 2025-07-15T20:00
+expire: 2026-01-07T20:00
 ---
 
-Check out our [latest forum post](https://community.lsst.org/t/2025-07-11-rsp-data-lsst-cloud-sorry-sorry-but-also-webdav/10578) for updates including the first release of our WebDAV service, a poll, and more.
+Check out our [latest forum post](https://community.lsst.org/t/2025-12-21-rsp-data-lsst-cloud-cutouts-fits-wcs-settings/11411) for updates including the new paremeter CUTOUTMODE for our cutout service, more news, and a surprise 🎁
 
 📰 Subscribe to notifications for the [Data Services News](https://community.lsst.org/rubin-observatory-data-preview-1/10405/2) catergory on our community forum for alerts on the latest updates.
 
