@@ -4,7 +4,7 @@ env:
   - idfint
   - idfprod
 category: outage
-enabled: true
+enabled: false
 ---
 
 Due to infrastructure issues at Rubin's US Data Facility at SLAC, where our high-performance database system is hosted, TAP and ObsTAP queries (including all DP1 catalog queries) are failing. 
