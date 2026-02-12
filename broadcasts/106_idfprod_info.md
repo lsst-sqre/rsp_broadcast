@@ -1,9 +1,11 @@
 ---
-summary: DP1 ✅ ok, DP0.2 catalogs ✅ ok, DP0.3 catalogs ✅ ok DP0.2 image services ✅  ok
+summary: Cataloge (TAP) queries now ✅ ok
 env:
   - idfprod
-enabled: false
+enabled: true
 category: info
 ---
 
-DP0.2 images are once again available. 
+The issue affecting our database has been resolved. Queries are back online. 
+
+We're sorry for the extended outage. 
