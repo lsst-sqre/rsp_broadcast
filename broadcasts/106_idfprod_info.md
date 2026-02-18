@@ -2,7 +2,7 @@
 summary: Cataloge (TAP) queries now ✅ ok
 env:
   - idfprod
-enabled: true
+enabled: false
 category: info
 ---
 
