@@ -1,12 +1,14 @@
 ---
-summary: Catalog queries severely disrupted - expand for more
+summary: Intermittent issues with catalog queries - expand for more
 env:
   - idfint
   - idfprod
 category: outage
-enabled: false
+enabled: true
 ---
 
-Due to infrastructure issues at Rubin's US Data Facility at SLAC, where our high-performance database system is hosted, TAP and ObsTAP queries (including all DP1 catalog queries) are failing. 
+Due to reasons we don't yet fully understand, certain queries are triggering a bug in Qserv, our high performance database system that hosts the DP1 catalogs. 
+When this occurs, Qserv is unable to process any queries and the system requires manual intervention before queries can resume. 
+We are monitoring closely to ensure minimal downtime during those events, and the Qserv team is investigating the root cause. 
 
-Updates will be posted in this banner as we know them. 
+We apologize for the disruption in service. 
