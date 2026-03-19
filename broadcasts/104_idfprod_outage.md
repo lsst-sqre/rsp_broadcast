@@ -4,7 +4,7 @@ env:
   - idfint
   - idfprod
 category: outage
-enabled: true
+enabled: false
 ---
 
 Due to reasons we don't yet fully understand, certain queries are triggering a bug in Qserv, our high performance database system that hosts the DP1 catalogs. 
