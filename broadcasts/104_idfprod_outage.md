@@ -4,7 +4,7 @@ env:
   - idfint
   - idfprod
 category: outage
-enabled: true
+enabled: false
 ---
 
 Due to infrastructure issues being investigated, catalog queries are currently experiencing a high failure rate. 
