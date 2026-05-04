@@ -1,11 +1,13 @@
 ---
-summary: Brief portal downtime today 2025-07-03 at 12:30 Pacific - bug fix coming - expand for more
+summary: Actual downtime this Patch Thursday - *ALL* data.lsst.cloud services offline for up to 4 hours
 env:
   - idfprod
-enabled: false
+enabled: true
+category: notice
 ---
 
-We're going to roll out a fix for the Job Monitor without waiting for the normal maintenance window.
-Look what can we say? We can't watch you suffer when we have them fixes ready to go. Blame our poor impulse control. 
+Normally our [Patch Thursday](https://rsp.lsst.io/guides/life/patch-thursday.html) updates involve no or transient service interruption, but on rare occasions we have to break some eggs for this particular omelette.
+All data.lsst.cloud services will be down from the beginning of the patch window (15:00 Pacific) while we redeploy the cluster from first principles. 
+This might take up to 4 hours.
 
-You can continue using the platform but please don't file bugs for anything that happens while this banner is up, just like [Patch Thursday](https://rsp.lsst.io/guides/life/patch-thursday.html)
+Sorry for the interruption. 
