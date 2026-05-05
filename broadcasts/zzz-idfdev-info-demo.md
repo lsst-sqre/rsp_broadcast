@@ -2,7 +2,7 @@
 summary: Here's some information. 🦄
 env:
   - idfdev
-enabled: true
+enabled: false
 category: info
 ---
 
