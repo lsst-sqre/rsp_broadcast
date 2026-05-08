@@ -2,7 +2,7 @@
 summary: Actual downtime this Patch Thursday - *ALL* data.lsst.cloud services offline for up to 4 hours
 env:
   - idfprod
-enabled: true
+enabled: false
 category: notice
 ---
 
