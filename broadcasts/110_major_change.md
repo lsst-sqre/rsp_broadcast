@@ -3,4 +3,5 @@ summary: Platform unavailable 2026-07-27 (Monday) for [Early DP2](https://commun
 env:
   - idfprod
 enabled: true
+category: notice
 ---
