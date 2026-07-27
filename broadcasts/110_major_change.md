@@ -3,5 +3,7 @@ summary: Platform unavailable 2026-07-27 (Monday) for [Early DP2](https://commun
 env:
   - idfprod
 enabled: true
-category: notice
+category: warning
 ---
+
+Current prediction for re-open: earlist 12:00 Pacific, latest 15:00 Pacific
