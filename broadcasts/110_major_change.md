@@ -1,9 +1,9 @@
 ---
-summary: Platform unavailable 2026-07-27 (Monday) for [Early DP2](https://community.lsst.org/t/data-lsst-cloud-offline-2026-07-27-monday-for-release-prep/12324)
+summary: [Early DP2](https://community.lsst.org/t/early-data-preview-2-is-now-available/12346) now live 🎉
 env:
   - idfprod
-enabled: false
-category: outage
+enabled: true
+category: info
 ---
 
-Current prediction for re-open: earlist 12:00 Pacific, latest 15:00 Pacific
+That and other RSP news [here](https://community.lsst.org/t/early-data-preview-2-is-now-available/12346)
