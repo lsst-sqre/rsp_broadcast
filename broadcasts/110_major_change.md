@@ -6,4 +6,4 @@ enabled: true
 category: info
 ---
 
-That and many other RSP news [here](https://community.lsst.org/t/early-data-preview-2-is-now-available/12346)
+That and many other RSP news [here](https://community.lsst.org/t/2026-07-27-rsp-data-lsst-cloud-early-dp2-new-file-format-and-more/12345)
