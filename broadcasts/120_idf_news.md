@@ -5,7 +5,7 @@ env:
 enabled: true
 category: info
 timezone: America/Los Angeles
-expire: 2026-08-3T20:00
+expire: 2026-08-03T20:00
 ---
 
 Check out our [latest forum post](https://community.lsst.org/t/2026-07-30-rsp-data-lsst-cloud-the-bugs-are-getting-squashed/12388) for updates on various bugs. 
