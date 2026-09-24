@@ -2,7 +2,7 @@
 summary: Actual downtime this Patch Thursday - 15-minute outage
 env:
   - idfprod
-enabled: true
+enabled: false
 category: notice
 ---
 
