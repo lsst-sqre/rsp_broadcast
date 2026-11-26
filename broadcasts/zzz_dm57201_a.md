@@ -1,5 +1,5 @@
 ---
-summary: DM-57201 validation A (v1)
+summary: DM-57201 validation A (v2)
 env:
   - idfdev
 enabled: true
