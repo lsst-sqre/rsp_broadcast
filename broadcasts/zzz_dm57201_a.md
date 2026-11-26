@@ -1,7 +1,7 @@
 ---
-summary: DM-57201 validation A (v3)
+summary: DM-57201 validation A (v4, retargeted)
 env:
-  - idfdev
+  - dm57201-nonexistent-env
 enabled: true
 category: info
 ---
